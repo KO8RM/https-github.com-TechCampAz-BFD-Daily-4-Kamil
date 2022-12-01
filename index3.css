@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.button1{
+    background-color: blue;
+    color: white;
+    border: transparent;
+    padding: 15px;
+    border-radius: 10px;
+}
+.button2{
+    background-color: blue;
+    color: white;
+    border: transparent;
+    padding: 15px;
+    border-radius: 10px;
+}
+.button3{
+    background-color: blue;
+    color: white;
+    border: transparent;
+    padding: 15px;
+    border-radius: 10px;
+}
+.button4{
+    background-color: blue;
+    color: white;
+    border: transparent;
+    padding: 15px;
+    border-radius: 10px;
+}

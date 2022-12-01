@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    border-radius: 15px;
+    border: 5px solid blueviolet;
+    height: 500px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    color: white;
+    background-color: blueviolet;
+    padding: 15px;
+}
